@@ -1,4 +1,3 @@
-
 body {
   margin: 0;
   background-color: #eee;
@@ -6,7 +5,7 @@ body {
 
 a {
   color: #fff;
-  text-decoration: none; /* no underline */
+  text-decoration: none;
 }
 
 a:hover {
@@ -15,7 +14,8 @@ a:hover {
 
 header {
   padding: 50px 0; 
-  background-color: #000;}
+  background-color: #000;
+}
 
 nav {
   padding-right:100px;
@@ -39,17 +39,16 @@ main p {
 }
 
 right {
-    padding: 100px 100px 30px 100px;
-    display: inline-block;
-    width: 30%;
+  padding: 100px 100px 30px 100px;
+  display: inline-block;
+  width: 30%;
 }
 
 left {
-    padding: 100px 100px 30px 200px;
-    display: inline-block;
-    vertical-align: top;
-    width: 30%;
-  
+  padding: 100px 100px 30px 200px;
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
 }
 
 img {
@@ -65,7 +64,8 @@ h1 {
   font-size:40px;
   font-family: Montserrat, Arial;
   text-align:center;
-  text-transform: uppercase; }
+  text-transform: uppercase; 
+}
   
 h2 {
   font-weight: bold;
@@ -109,7 +109,7 @@ footer {
   background-color: #000;
   color: #fff;
   text-align:center;
-    font-family: Lato, Arial;
+  font-family: Lato, Arial;
   color: #fff;
   font-size: 40px;
   word-spacing:0.5em;
@@ -123,6 +123,5 @@ footer p {
   padding:10px;
   word-spacing: 0.2em;
   color: #fff;
-  font-size: 14px;
-  
+  font-size: 14px;  
 }
