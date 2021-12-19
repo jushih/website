@@ -108,6 +108,17 @@ ul {
   font-family: Lato, Arial;
 }
 
+ul li {
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    min-height: 250px;
+    border: 1px solid #000;
+    display: inline-block;
+    padding: 30px;
+    overflow: auto;
+}
+
 footer {
   padding: 50px 0; 
   background-color: #000;
