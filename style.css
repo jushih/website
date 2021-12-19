@@ -38,12 +38,14 @@ main p {
   font-family: Montserrat, Arial;
 }
 
+/* format picture */
 right {
   padding: 100px 100px 30px 100px;
   display: inline-block;
   width: 30%;
 }
 
+/* format text */
 left {
   padding: 100px 100px 30px 200px;
   display: inline-block;
@@ -73,6 +75,14 @@ h2 {
   font-family: Lato, Arial;
   text-align: center; 
 }
+
+  
+h3 {
+  font-weight: bold;
+  font-size:20px;
+  font-family: Lato, Arial;
+  text-align: center; 
+}
   
 
 hr {
@@ -83,6 +93,8 @@ hr {
   border: none;
   border-top: solid 5px;
 }
+
+/* format project blocks */
 
 ul { 
   height: 400px;
