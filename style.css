@@ -93,6 +93,10 @@ hr {
   border-top: solid 5px;
 }
 
+ol { 
+  font-family: Montserrat, Arial;
+}
+
 /* format project blocks */
 
 ul { 
@@ -104,7 +108,7 @@ ul {
   font-family: Lato, Arial;
 }
 
-li {
+ul li {
     display: inline-block;
     vertical-align: top;
     width: 300px;
