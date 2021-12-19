@@ -107,7 +107,7 @@ ul {
   grid-auto-rows: 50px;
   font-family: Lato, Arial;
 }
-
+/*
 ul li {
     display: inline-block;
     vertical-align: top;
@@ -118,7 +118,7 @@ ul li {
     padding: 30px;
     overflow: auto;
 }
-
+*/
 footer {
   padding: 50px 0; 
   background-color: #000;
