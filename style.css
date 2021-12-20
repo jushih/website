@@ -33,7 +33,8 @@ nav-list {
 }
 
 main {
-   text-align: center;
+  text-align: center;
+  padding: 100px 100px 0px 100px;
 }
 
 main p {
