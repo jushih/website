@@ -32,6 +32,9 @@ nav-list {
   display: inline-block;
 }
 
+main {
+   text-align: center;
+}
 
 main p {
   font-family: Montserrat, Arial;
